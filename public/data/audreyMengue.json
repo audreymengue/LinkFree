@@ -1,0 +1,33 @@
+{
+  "name": "Audrey Mengue",
+  "type": "personal",
+  "bio": "Open Source Enthusiast!",
+  "avatar": "https://github.com/audreymengue.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/audreymengue",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/la_mengs",
+      "icon": "twitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/audreyhmmengue/",
+      "icon": "linkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Freelancing",
+      "date": "December 2021",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Started freelancing",
+      "url": "https://www.eddiejaoude.io/"
+    }
+  ]
+}
